@@ -15,6 +15,12 @@ __pycache__/
 .vscode/
 .claude/
 
+# credentials — never commit these
+kaggle.json
+.kaggle/
+*.pem
+.env
+
 # IL track generated artifacts (checkpoints already covered by *.pt)
 il/videos/
 *.h5
