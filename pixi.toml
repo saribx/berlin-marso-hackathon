@@ -26,4 +26,5 @@ transforms3d   = "==0.4.2"
 tyro           = "*"
 matplotlib     = "*"
 tensorboard    = "*"
+kagglehub      = "*"
 warehouse_sort = {path = ".", editable = true}
